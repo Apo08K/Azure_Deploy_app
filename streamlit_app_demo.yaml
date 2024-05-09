@@ -1,0 +1,6 @@
+name: my-streamlit-app
+dependencies:
+  - python=3.9
+  - pip:
+      - streamlit==1.33.0
+      - pandas
